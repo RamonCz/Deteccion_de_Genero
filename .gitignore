@@ -1,0 +1,13 @@
+config.ini
+imagenesRandom/
+faceKaggle/
+morephotos/
+archive/
+human/
+nohuman/
+*.h5
+__pycache__
+weights/
+models/
+users.csv
+data/
